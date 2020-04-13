@@ -1,0 +1,7 @@
+1) What is coreference resolution?
+2) Explain precedence and operator predecence hierarchy with an example? 
+3) Explain about lookahead assertions with different examples?
+4) It will be clear if one explains three types of tokenization with same example.
+
+Motivation
+I am currently focusing on computer vision and deep learning but after the NLP class that was held during Neural Networks lecture last semester. I got interested in NLP and luckily it is offered this semester as a full-time course. I felt it is a very good opportunity to learn NLP and know more about it.
