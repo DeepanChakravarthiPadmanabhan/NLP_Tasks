@@ -6,6 +6,6 @@ Natural Language Processing(NLP) summer semester 2020 asssignments and project r
 
 [Deepan Chakravarthi Padmanabhan](https://github.com/DeepanChakravarthiPadmanabhan)
 
-[Santosh Muthireddy](https://github.com/santoshreddy254/)
+[Santosh Muthireddy](https://github.com/santoshreddy254)
 
-
+[Vahid MohammadiGahrooei](https://github.com/vahmohh)
